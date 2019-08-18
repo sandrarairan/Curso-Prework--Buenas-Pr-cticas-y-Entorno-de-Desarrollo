@@ -7,8 +7,8 @@ Curso Platzi
 - [Instalación y configuración de VSCode](#Instalación-y-configuración-de-VSCode)
 - [cómo instalar NodeJS](#cómo-instalar-NodeJS) 
 - [Cómo ejecutar Node](#Cómo-ejecutar-Node)
-- [](#)
-- [](#) 
+- [Google chrome para desarrollo frontend](#)
+- [Herramientas desarrollo Backend: JSON Viewer y Postman](#Herramientas-desarrollo-Backend:-JSON-Viewer-y-Postman) 
 - [](#) 
 - [](#)
 - [](#)
@@ -173,3 +173,21 @@ Al escribir node se nos abrirá un shell interactivo donde podremos escribir có
 
 Cómo utilizar npm
 npm es el manejador de paquetes de Node con él podemos instalar dependencias a nuestro proyecto o instalar programas globalmente en nuestro sistema. A lo largo de este curso y de toda la Escuela de JavaScript npm será quien nos permita correr los proyectos e instalar nuestras dependencias.
+
+## Google chrome para desarrollo frontend
+
+Se deben instalar estos dos plugins:
+
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+
+## Herramientas de desarrollo Backend: JSON Viewer y Postman
+
+https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
+
+https://www.getpostman.com/
+
+http://jsonplaceholder.typicode.com/todos
+
+## ¿Qué es Git?
