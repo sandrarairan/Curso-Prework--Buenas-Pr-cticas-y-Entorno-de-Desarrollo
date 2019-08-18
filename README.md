@@ -10,18 +10,6 @@ Curso Platzi
 - [Google chrome para desarrollo frontend](#)
 - [Herramientas desarrollo Backend: JSON Viewer y Postman](#Herramientas-desarrollo-Backend:-JSON-Viewer-y-Postman) 
 - [¿Qué es Git?](#¿Qué es Git?) 
-- [](#)
-- [](#)
-- [](#) 
-- [](#)
-- [](#)
-- [](#) 
-- [](#) 
-- [](#)
-- [](#)
-- [](#) 
-- [](#)
-- [](#)
 <!-- toc -->
 ## Terminal
 **Manejo archivos y directorios**
